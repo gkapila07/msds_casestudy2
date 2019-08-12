@@ -1,11 +1,17 @@
 ---
 title: "Case_Study_2"
-author: "Ben Tanaka"
-date: "7/29/2019"
+author: "Data overload Team - Ben,Gautam, Rikel"
+date: "8/12/2019"
 output: 
   html_document:
     keep_md: true
 ---
+
+## GitHub Repository
+
+https://github.com/gkapila07/msds_casestudy2
+
+## Session Information
 
 
 

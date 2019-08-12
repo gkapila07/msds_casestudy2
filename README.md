@@ -13,5 +13,6 @@ Additional work should be done to deep dive into these factors to identify furth
 1. Case_Study_2.html - RMarkdown HTML output file containing the insights and exploratory analysis conducted in HTML format.
 2. Case_Study_2.Rmd - R Studio file containing the code for the exploratory analysis
 3. Case_Study_2.md - RMarkdown output file containing the insights and exploratory analysis conducted.
+4. Employee_attrition_v2.pptx : Slides with Attrition Analysis for review
 
 

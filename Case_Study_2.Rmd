@@ -1,11 +1,17 @@
 ---
 title: "Case_Study_2"
-author: "Ben Tanaka"
-date: "7/29/2019"
+author: "Data overload Team - Ben,Gautam, Rikel"
+date: "8/12/2019"
 output: 
   html_document:
     keep_md: true
 ---
+
+## GitHub Repository
+
+https://github.com/gkapila07/msds_casestudy2
+
+## Session Information
 
 ```{r setup, echo=FALSE, include=FALSE, warning=FALSE,message =FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning=FALSE,message =FALSE)
@@ -38,7 +44,7 @@ library(psych)
 library(scales)
 library(cowplot)
 
-setwd("/users/ben/documents/r/Case_Study_2")
+setwd("C:\\Users\\a0875458\\Documents\\My Data\\IDP\\Masters\\Sem 1 - 01 - Doing Data Science\\CaseStudy2_2_2\\20190812\\CaseStudy2-master\\CaseStudy2-master")
 getwd()
 ```
 
